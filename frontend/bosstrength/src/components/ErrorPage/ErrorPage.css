@@ -1,0 +1,22 @@
+/** @format */
+
+.error-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #f8d7da;
+  color: #94242f;
+  padding: 20px;
+}
+
+.error-page {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.error-page {
+  font-size: 1.5rem;
+}

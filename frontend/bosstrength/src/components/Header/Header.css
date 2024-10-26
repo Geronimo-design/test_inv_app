@@ -1,0 +1,44 @@
+/** @format */
+
+.header {
+  background-color: white;
+  color: green;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.logo {
+  height: 15vh;
+  width: 7vw;
+}
+
+.header {
+  font-size: 24px;
+}
+
+.header {
+  display: flex;
+  gap: 15px;
+}
+
+.header {
+  color: green;
+  font-weight: bold;
+}
+
+.header nav a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  margin-left: 5vw;
+}
+
+a {
+  margin-left: 5vw;
+}

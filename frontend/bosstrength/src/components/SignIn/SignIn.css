@@ -1,0 +1,49 @@
+/** @format */
+
+.sign-in-container {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sign-in-container {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.sign-in-container {
+  margin: 1vw;
+}
+
+.sign-in-form .form-group {
+  margin-bottom: 15px;
+}
+
+.sign-in-form {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.sign-in-form {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.sign-in-form {
+  width: 100%;
+  padding: 10px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.sign-up-option {
+  text-align: center;
+}
+
+a {
+  color: green;
+}

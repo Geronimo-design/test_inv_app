@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Products component renders correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <div>
+        You must be signed in to view this page.
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
